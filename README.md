@@ -2,7 +2,7 @@
 
 # Kaustuv Duwadi
 
-**SaaS Founder · Full-Stack Engineer · Cross-Platform Developer**
+**Full-Stack Engineer ·  Web Developer  · Cross-Platform Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustuvduwadi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://duwadikaustuv.github.io/portfolio-website/)
@@ -74,7 +74,7 @@ My interest is primarily applied: using AI as a lever to build smarter, more cap
 
 ## Get In Touch
 
-I am open to conversations about SaaS, compliance tech, full-stack architecture, and .NET ecosystems.
+I am open to conversations about web development, full-stack architecture, and .NET ecosystems.
 
 | | |
 |---|---|
