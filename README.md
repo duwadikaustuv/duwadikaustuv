@@ -12,26 +12,6 @@
 
 ---
 
-## About Me
-
-I am a SaaS founder and full-stack engineer building vertical software for compliance-heavy industries. My current focus is **CertMatrix** — a B2B SaaS platform purpose-built for independent safety and compliance consultants who serve as fractional safety directors across multiple small-to-medium businesses.
-
-I design and ship full-stack products end-to-end: from responsive web frontends and cross-platform desktop/mobile applications to robust, scalable backend APIs. I care about clean architecture, maintainability, and building software that solves specific, real-world problems with precision.
-
----
-
-## Current Project
-
-### CertMatrix
-
-A vertical SaaS platform for independent safety and compliance consultants — professionals who manage OSHA compliance, forklift certifications, CPR training, and regulatory documentation across multiple client businesses simultaneously.
-
-CertMatrix gives fractional safety directors a centralized system to track certifications, manage training schedules, maintain compliance records, and serve multiple business clients from a single interface.
-
-> **Status:** Actively in development
-
----
-
 ## Tech Stack
 
 ### Languages
