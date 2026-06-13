@@ -56,6 +56,26 @@ CertMatrix gives fractional safety directors a centralized system to track certi
 
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI_Hybrid-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## AI Interests
+
+I actively study and work with the AI/ML stack, with a focus on applied intelligence in product contexts:
+
+- **Machine Learning & Deep Learning** — model training, neural network architectures, and applied ML pipelines
+- **Large Language Models** — prompt engineering, fine-tuning, and integrating LLMs into production software
+- **Agentic AI** — designing autonomous agent systems, tool-use patterns, and multi-step reasoning workflows
+
+My interest is primarily applied: using AI as a lever to build smarter, more capable SaaS products rather than research for its own sake.
+
 ---
 
 ## GitHub Stats
