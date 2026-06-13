@@ -50,6 +50,7 @@ CertMatrix gives fractional safety directors a centralized system to track certi
 ### Backend
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Cross-Platform
 
