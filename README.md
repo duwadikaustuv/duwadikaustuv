@@ -74,7 +74,7 @@ My interest is primarily applied: using AI as a lever to build smarter, more cap
 
 ## Get In Touch
 
-I am open to conversations about web development, full-stack architecture, and .NET ecosystems.
+I am open to conversations about AI, web development, full-stack architecture, and .NET ecosystems.
 
 | | |
 |---|---|
